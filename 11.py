@@ -1,0 +1,4 @@
+# -*- coding: utf-8 -*-
+#author:mistchan
+a = ['{"total":1,"rows":[{"KeyId":199742578,"businessId":36,"businessName":"河南东森医药有限公司","createTime":"2020-01-14 00:00:00","itemId":126470,"itemName":"替吉奥胶囊","itemCurName":null,"itemSpec":"20mg*28粒","itemUnit":"盒","producerId":79951,"producerName":"齐鲁制药有限公司","supplierId":80511,"supplierName":"河南海王医药集团有限公司","agentId":6980,"agentName":"40091","itemQty":56.0000,"itemUnQty":0.0000,"sumQty":56.0000,"shipNo":"9K0703E28","productDate":"2019-10-26 00:00:00","overdueDate":"2021-10-25 00:00:00","purPrice":372.8700,"insertTime":"2020-01-15 03:03:43","rolesid":4142,"storagedtlid":0,"itemNoOld":null,"itemNoNew":"11030000126","kyl":0.0000,"orgCode":"1104","pzwh":"国药准字H20100150","zczh":null,"def1":null,"def2":null,"def3":null,"def4":null,"def5":null,"def6":null,"def7":null,"def8":null,"def9":null,"def10":null}]}']
+print(a[0])
